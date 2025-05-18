@@ -5,9 +5,7 @@ This is a simple website created with HTML and published using GitHub Pages.
 ## GitHub Pages
 
 The website is available at:  
-https://<your-username>.github.io/<repository-name>/
-
-_(Replace the URL with your actual GitHub Pages link)_
+https://replicantfrommars2501.github.io/hello-world/
 
 ## Project Structure
 
